@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
 /* Components */
-@import "/css/header.css";
-@import "/css/buttons.css";
+@import "css/header.css";
+@import "css/buttons.css";
 @import "/css/main.css";
 @import "/css/footer.css";
 @import "/css/responsive-background.css";
