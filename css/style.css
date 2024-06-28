@@ -10,4 +10,7 @@
 @import "css/bootstrap.css";
 @import "css/responsive-elements.css";
 
+body{
+  background-color: red;}
+
 
