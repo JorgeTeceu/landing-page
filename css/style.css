@@ -2,31 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
 /* Components */
-<link rel="stylesheet" href="css/header.css";
-<link rel="stylesheet" href="css/buttons.css";
-<link rel="stylesheet" href="css/main.css";
-<link rel="stylesheet" href="css/footer.css";
-<link rel="stylesheet" href="css/responsive-background.css";
-<link rel="stylesheet" href="css/bootstrap.css";
-<link rel="stylesheet" href="css/responsive-elements.css";
+@import "header.css";
+@import "buttons.css";
+@import "css/main.css";
+@import "footer.css";
+@import "responsive-background.css";
+@import "bootstrap.css";
+@import "responsive-elements.css";
 
-header section {
-  
-  justify-content: space-between;
-  align-items: center;
-}
 
-header nav ul {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-   
-}
-
-header nav ul li a{
-  margin: 0 15px;
-  color: #3399cc;
-}
 
 
 
