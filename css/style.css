@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
 /* Components */
-@import url("css/header.css");
-@import url("css/buttons.css");
-@import url("css/main.css");
-@import url("css/footer.css");
-@import url("css/responsive-background.css");
-@import url("css/bootstrap.css");
-@import url("css/responsive-elements.css");
+<link rel="stylesheet" href="css/header.css";
+<link rel="stylesheet" href="css/buttons.css";
+<link rel="stylesheet" href="css/main.css";
+<link rel="stylesheet" href="css/footer.css";
+<link rel="stylesheet" href="css/responsive-background.css";
+<link rel="stylesheet" href="css/bootstrap.css";
+<link rel="stylesheet" href="css/responsive-elements.css";
 
 
 
