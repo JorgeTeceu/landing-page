@@ -4,10 +4,10 @@
 /* Components */
 @import "css/header.css";
 @import "css/buttons.css";
-@import "/css/main.css";
-@import "/css/footer.css";
-@import "/css/responsive-background.css";
+@import "css/main.css";
+@import "css/footer.css";
+@import "css/responsive-background.css";
 @import "css/bootstrap.css";
-@import "/css/responsive-elements.css";
+@import "css/responsive-elements.css";
 
 
